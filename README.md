@@ -2,6 +2,7 @@
 <h1>GROUP2(OOP)_collaborative project</h1>
 <br>
 <p>JAVA</p>
+<br>
 <ol>
   <li>Brian Chepyegon C026-01-0970/2022</li>
   <li>Solomon Ndimu C026-01-0909/2022</li>
